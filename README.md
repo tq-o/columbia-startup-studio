@@ -6,14 +6,15 @@
 
 ---
 
-## Course Overview
-
-Startup Studio is a hands-on course that immerses you in the full cycle of technology entrepreneurship: from concept development to AI-assisted product building to real-world validation. You'll form teams, build products using modern AI tools, and validate your ideas with real users through paid advertising and UX interviews.
-
 ## Quick Links
 
 - [Course Syllabus](resources/course_syllabus.md) — grading, required readings, policies
 - [Class Schedule](classes/class_schedule.md) — weekly topics, dates, and readings
+
+## Course Overview
+
+Startup Studio is a hands-on course that immerses you in the full cycle of technology entrepreneurship: from concept development to AI-assisted product building to real-world validation. You'll form teams, build products using modern AI tools, and validate your ideas with real users through paid advertising and UX interviews.
+
 
 ## Repository Structure
 
