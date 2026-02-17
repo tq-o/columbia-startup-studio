@@ -76,6 +76,42 @@ Example: "Warm but not saccharine — genuine care without excessive emoji."
 
 ---
 
+## Positioning Statement
+
+Complete this sentence:
+
+> **For [target user], [Product Name] is the [category] that [key benefit] because [reason to believe].**
+
+Example: "For brand leaders at growing DTC companies, Morsel is the feedback platform that turns customer voice into product decisions because it captures context traditional surveys miss."
+
+---
+
+## Brand Values
+
+What 2-3 principles guide decisions when the team disagrees? These are tiebreakers, not aspirations.
+
+- **[Value]** — [what it means in practice]
+- **[Value]** — [what it means in practice]
+- **[Value]** — [what it means in practice]
+
+Example: "Transparency over polish — we'd rather ship something honest than something pretty."
+
+---
+
+## Objection Handling
+
+What did skeptics say in your interviews? What are the top 2-3 reasons someone would say no, and how would you respond?
+
+| Objection | Your Response |
+|-----------|--------------|
+| "[what they said or would say]" | [how you address it] |
+| "[what they said or would say]" | [how you address it] |
+| "[what they said or would say]" | [how you address it] |
+
+These feed directly into your landing page. The best copy preempts doubt before the reader has to voice it.
+
+---
+
 ## Key Interview Language
 
 Pull the 3-5 most vivid phrases from your interviews that should influence your copy. These are your users' actual words.
