@@ -49,9 +49,27 @@ Internal document capturing your brand's thesis, identity, and canonical languag
 
 ## How to Submit
 
-1. Create the `20260219/` folder in your team directory
-2. Add your files
-3. Commit and push to the `main` branch of the public repo
+Submissions are made via **pull request** on the public repo.
+
+### Step 1: Fork the repo (first time only)
+
+If you haven't already, fork the public repo on GitHub. Click the **Fork** button at the top right of the repo page. This creates your own copy.
+
+### Step 2: Sync your fork
+
+Make sure your fork is up to date with the main repo before starting:
+
+```bash
+# If you haven't added the upstream remote yet:
+git remote add upstream https://github.com/kenxle/columbia-startup-studio.git
+
+# Sync your fork
+git fetch upstream
+git checkout main
+git merge upstream/main
+```
+
+### Step 3: Create your submission
 
 ```bash
 cd teams/your-team-name
@@ -59,8 +77,17 @@ mkdir 20260219
 # add your files to the folder
 git add 20260219/
 git commit -m "Add synthesis, product brief, and brand position"
-git push
+git push origin main
 ```
+
+### Step 4: Open a pull request
+
+1. Go to the **original repo** on GitHub (not your fork)
+2. Click **Pull Requests** → **New Pull Request**
+3. Click **"compare across forks"**
+4. Set **base** to the original repo's `main` and **head** to your fork's `main`
+5. Title your PR: `[Your Team Name] Synthesis, Product Brief & Brand Position`
+6. Submit the pull request
 
 ---
 
