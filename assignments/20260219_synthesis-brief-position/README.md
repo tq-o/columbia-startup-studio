@@ -29,11 +29,11 @@ Internal document capturing your brand's thesis, identity, and canonical languag
 
 ### 3. Synthetic User Testing (In-Class Exercise)
 
-Run at least one round of synthetic user testing on your landing page copy during the class exercise. Include:
+Run at least **5 rounds** of synthetic user testing on your landing page copy. Include:
 
-- The copy you tested
-- Feedback from synthetic personas
-- What you'd change for V2
+- The copy versions you tested (V1 through V5+)
+- Feedback summaries from each round
+- What you changed between rounds and why
 
 Use the synthetic testing skill from class: [synthetic-user-testing/SKILL.md](../../classes/20260219_c9w5_thu_synthetic-testing/exercise/synthetic-user-testing/SKILL.md)
 
@@ -94,7 +94,12 @@ teams/your-team-name/
 │   ├── brand_position.md
 │   └── synthetic_testing/
 │       ├── v1_copy.md
-│       └── v1_results.md
+│       ├── v1_results.md
+│       ├── v2_copy.md
+│       ├── v2_results.md
+│       ├── ...
+│       ├── v5_copy.md
+│       └── v5_results.md
 └── README.md
 ```
 
