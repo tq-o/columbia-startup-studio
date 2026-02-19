@@ -6,7 +6,7 @@
 
 **Interviewer:** Shivangi  
 **Date:** 13 Feb 2026  
-**Interview #:** 1 of 3
+**Interview #:** 2 of 3
 
 ---
 
@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **Name / Description** | Riddhi, 24 year old micro-influencer (15k followers), fashion + lifestyle niche |
+| **Name / Description** | Riddhi, 24-year-old micro-influencer (15k followers), fashion + lifestyle niche |
 | **How you found them** | Instagram DM outreach |
 
 ---
